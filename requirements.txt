@@ -13,6 +13,7 @@ requests
 soupsieve
 TgCrypto
 urllib3
+ffmpeg
 websockets
 yt-dlp
 motor
